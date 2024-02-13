@@ -2,7 +2,11 @@
 export default {
   content: ['./src/**/*.html', './src/**/*.js', './src/**/*.tsx'],
   theme: {
-    extend: {},
+    extend: {
+      fontfamily: {
+        'neue': ['Neue Haas Grotesk', 'sans-serif'],
+      }
+    },
   },
   plugins: [],
 }
