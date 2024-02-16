@@ -11,7 +11,7 @@ export default function Projects() {
                     <div className="w-1/12 h-1 bg-lt-red"></div>
                 </div>
                 <p className="pt-4">
-            /* WORK IN PROGRESS */
+                    WORK IN PROGRESS!
                 </p>
                 <p className="pt-4">
                     <span>but you can check out my</span> <a href="https://github.com/wjhuang98" className="text-lt-orange">github</a>

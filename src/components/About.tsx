@@ -1,7 +1,7 @@
 export default function About() {
     return (
         <div id="About" className="flex flex-col bg-lt-black h-screen justify-center items-center overflow-hidden relative snap-start">
-            <div className="h-1/2 w-1/2 text-4xl font-semibold font-neue text-lt-white">
+            <div className="h-1/2 lg:w-1/2 lg:text-4xl font-semibold font-neue text-lt-white">
                 <p className="text-lt-orange">
                     About
                 </p>
