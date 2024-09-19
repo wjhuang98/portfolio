@@ -11,13 +11,13 @@ export default function About() {
                     <div className="w-1/12 h-1 bg-lt-red"></div>
                 </div>
                 <p className="pt-4">
-                    I'm a senior at Boston University studying Computer Science and Japanese.
+                    I recently graduated from Boston University with a degree in Computer Science.
                 </p>
                 <p className="pt-4">
-                    I currently have experience in fullstack web development and am looking for full time offers.
+                    And soon I'll be working as a software engineer at Amazon Web Services.
                 </p>
                 <p className="pt-4">
-                    When I'm not coding, I like working out, playing video games, and reading.
+                    Send me an email or message me on LinkedIn for any inquiries!
                 </p>
             </div>
         </div>
